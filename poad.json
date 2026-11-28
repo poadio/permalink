@@ -1,6 +1,6 @@
 {
   "engine": {
-    "stable": "0.44.3"
+    "stable": "0.45.0"
   },
   "ai": {
     "schema": 1,
